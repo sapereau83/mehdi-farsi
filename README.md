@@ -22,6 +22,8 @@ I am always happy to connect with other developers, so feel free to reach out! L
 
 Thanks for taking the time to read my presentation!
 
-Don't forget to follow me here if you like what you see! 🤖🥳
+PS: Enjoy our special Black Friday offer 👉 [RubyCademy](https://www.rubycademy.com)
+
+<img width="1209" alt="Screenshot 2024-12-01 at 11 30 07" src="https://github.com/user-attachments/assets/0cdaf063-e174-49f2-9713-056e2b73fced">
 
 💚
