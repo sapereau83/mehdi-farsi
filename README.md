@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-#### Who am I?
-
 I'm Mehdi, the creator and solo maintainer of [RubyCademy](https://rubycademy.com), a platform to help you learn and improve your Ruby and Rails skills.
 
 I believe that learning should be accessible to everyone, which is why I share free content on social media, even though RubyCademy is a paid platform.
