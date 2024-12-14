@@ -1,5 +1,3 @@
-## Hello World 👋
-
 Welcome to my GitHub profile!
 
 I'm Mehdi, the creator and solo maintainer of [RubyCademy](https://rubycademy.com), a platform to help you learn and improve your Ruby and Rails skills.
