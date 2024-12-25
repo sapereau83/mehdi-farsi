@@ -10,6 +10,6 @@ If you enjoy fun Ruby code, follow me on [X.com/RubyCademy](https://x.com/RubyCa
 
 I am always happy to connect with other developers, so feel free to reach out! Let’s make learning awesome.
 
-Thanks for taking the time to read my presentation!
+Thank you for taking the time to read my presentation!
 
 💚
