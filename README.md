@@ -8,7 +8,7 @@ I believe that learning should be accessible to everyone, which is why I share f
 
 If you enjoy fun Ruby code, follow me on [X.com/RubyCademy](https://x.com/RubyCademy), where I share Ruby Cards, interesting challenges, and code examples daily!
 
-I am always happy to connect with other developers, so feel free to reach out! Let’s make learning awesome.
+I am always happy to connect with other developers, so feel free to reach out!
 
 Thank you for taking the time to read my presentation!
 
