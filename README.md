@@ -4,7 +4,7 @@ I'm Mehdi, the creator and sole maintainer of [RubyCademy](https://www.rubycadem
 
 I believe that learning should be accessible to everyone, which is why I share free content on social media, even though RubyCademy is a paid platform.
 
-If you enjoy fun Ruby code, follow me on [X.com/RubyCademy](https://x.com/RubyCademy), where I share Ruby Cards, interesting challenges, and code examples daily!
+If you enjoy fun Ruby code, follow me on [X.com/RubyCademy](https://x.com/RubyCademy), where I share fun code examples! 😊
 
 I am always happy to connect with other developers, so feel free to reach out!
 
