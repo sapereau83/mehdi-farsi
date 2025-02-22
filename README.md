@@ -1,11 +1,9 @@
-### Welcome to my GitHub profile!
+Hey, I’m Mehdi 👋
 
-I'm Mehdi, the creator and sole maintainer of [RubyCademy](https://www.rubycademy.com), a platform for learning and improving your Ruby and Rails skills.
+Just like you, I have a deep passion for Ruby and Rails. Over the years, I’ve explored the language inside and out, and it would be my honor to share everything I’ve learned with you.
 
-I believe that learning should be accessible to everyone, which is why I share free content on social media, even though RubyCademy is a paid platform.
+If you enjoy discovering interesting Ruby quirks, best practices, and deep insights, you might like [RubyCademy](https://www.rubycademy.com)—a place where I share knowledge to help fellow developers grow.
 
-If you enjoy fun Ruby code, follow me on [X.com/RubyCademy](https://x.com/RubyCademy), where I share fun code examples! 😊
+I also post daily Ruby insights on [x.com/RubyCademy](https://x.com/RubyCademy). Would love to have you there!
 
-I am always happy to connect with other developers, so feel free to reach out!
-
-💚
+Thanks for stopping by, and happy coding! 🙏
