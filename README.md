@@ -1,4 +1,4 @@
-Hey, I’m Mehdi 👋
+Hi, I’m Mehdi 👋
 
 I have a deep passion for Ruby and Ruby on Rails. Over the years, I’ve explored the language inside and out, and it would be my honor to share everything I’ve learned with you.
 
